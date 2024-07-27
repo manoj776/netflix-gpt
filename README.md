@@ -3,7 +3,15 @@
 
 -create-react-app
 -configured tailwindcss 
--
+-installed routerdom
+-Header
+-Login form
+-Signup form
+
+
+
+
+
 
 Features:
 - Login/Signup
